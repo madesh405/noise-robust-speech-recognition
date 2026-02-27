@@ -24,4 +24,7 @@ data/
 
 models/
 
+*.safetensors
+*.pth
+*.bin
 *.tar.gz
